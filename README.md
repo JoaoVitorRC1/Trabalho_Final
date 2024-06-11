@@ -34,6 +34,7 @@ Este projeto é um sistema de vendas de produtos desenvolvido em Java utilizando
 ### Tela Principal (Vitrine de Produtos)
 
 ![TelaProdutos](https://github.com/JoaoVitorRC1/Trabalho_Final/assets/143137195/cfe6db95-bea6-46a6-99e1-35514404dc0a)
+![TelaProdutos2](https://github.com/JoaoVitorRC1/Trabalho_Final/assets/143137195/202587e1-dc0d-4e01-9ade-8777095ec290)
 
 ### Tela de Login
 
