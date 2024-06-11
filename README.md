@@ -38,15 +38,17 @@ Este projeto é um sistema de vendas de produtos desenvolvido em Java utilizando
 
 ### Tela de Login
 
-<img src="https://your-screenshot-link.png" alt="Tela de Login" width="600">
+![TelaLogin](https://github.com/JoaoVitorRC1/Trabalho_Final/assets/143137195/c2c7a4b8-2371-44be-a412-ce0c2515081a)
+![TelaLogin2](https://github.com/JoaoVitorRC1/Trabalho_Final/assets/143137195/fd4b5a3f-7e41-42d3-a6a3-8c397f5dd900)
 
 ### Tela do Carrinho de Compras
 
-<img src="https://your-screenshot-link.png" alt="Tela do Carrinho" width="600">
+![TelaCarrinho](https://github.com/JoaoVitorRC1/Trabalho_Final/assets/143137195/f9dcd870-a839-442b-95a1-f67bd898acc4)
 
 ### Tela de Pagamento
 
-<img src="C:\Users\jv-la\IdeaProjects\Trabalho_Final\Img_TrabalhoFinal alt="Tela de Pagamento" width="600">
+![TelaPagamento](https://github.com/JoaoVitorRC1/Trabalho_Final/assets/143137195/24270a44-904b-4971-9139-fa34f20ef296)
+![TelaPagamento2](https://github.com/JoaoVitorRC1/Trabalho_Final/assets/143137195/60cd94f6-3822-4521-b2a4-154fe135bf42)
 
 ## GIF do Funcionamento do Sistema
 
