@@ -71,5 +71,3 @@ O diagrama de classes foi criado utilizando o [draw.io](https://www.draw.io/).
 ├── TelaLogin.java
 └── Main.java
 ```
-
-Certifique-se de substituir os links das imagens e do diagrama de classes pelos links reais onde você hospedou essas imagens. Você pode usar serviços como Imgur para imagens e Giphy para GIFs.
