@@ -39,7 +39,7 @@ O diagrama de classes foi criado utilizando o [draw.io](https://www.draw.io/).
 
 ### Tela Principal (Vitrine de Produtos)
 
-<img src="https://your-screenshot-link.png" alt="Tela Principal" width="600">
+[<img src="https://your-screenshot-link.png" alt="Tela Principal" width="600">](https://files.fm/f/muggp8c5rv)
 
 ### Tela de Login
 
