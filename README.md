@@ -29,17 +29,11 @@ Este projeto é um sistema de vendas de produtos desenvolvido em Java utilizando
    java Main
    ```
 
-## Diagrama de Classes
-
-O diagrama de classes foi criado utilizando o [draw.io](https://www.draw.io/).
-
-![Diagrama de Classes](https://your-diagram-link.png)
-
 ## Prints das Telas
 
 ### Tela Principal (Vitrine de Produtos)
 
-[<img src="https://your-screenshot-link.png" alt="Tela Principal" width="600">](https://files.fm/f/muggp8c5rv)
+![TelaProdutos](https://github.com/JoaoVitorRC1/Trabalho_Final/assets/143137195/cfe6db95-bea6-46a6-99e1-35514404dc0a)
 
 ### Tela de Login
 
