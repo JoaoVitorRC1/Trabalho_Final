@@ -17,16 +17,13 @@ public class TelaPrincipal extends JFrame {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
 
-        // Painel principal com padding
         JPanel panel = new JPanel(new BorderLayout());
         panel.setBorder(new EmptyBorder(10, 10, 10, 10));
 
-        // Tabela de produtos com título
         JLabel title = new JLabel("Vitrine de Produtos", SwingConstants.CENTER);
         title.setFont(new Font("Arial", Font.BOLD, 24));
         panel.add(title, BorderLayout.NORTH);
 
-        // Painel de produtos
         JPanel productPanel = new JPanel();
         productPanel.setLayout(new BoxLayout(productPanel, BoxLayout.Y_AXIS));
 
@@ -61,7 +58,6 @@ public class TelaPrincipal extends JFrame {
         JScrollPane scrollPane = new JScrollPane(productPanel);
         panel.add(scrollPane, BorderLayout.CENTER);
 
-        // Painel de navegação
         JPanel navPanel = new JPanel(new FlowLayout());
         navPanel.setBorder(new EmptyBorder(10, 0, 0, 0));
 
