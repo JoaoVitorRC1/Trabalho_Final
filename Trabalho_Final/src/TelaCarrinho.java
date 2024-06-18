@@ -37,7 +37,7 @@ public class TelaCarrinho extends JFrame {
         JScrollPane scrollPane = new JScrollPane(cartPanel);
         panel.add(scrollPane, BorderLayout.CENTER);
 
-        // Painel de navegação
+
         JPanel navPanel = new JPanel(new FlowLayout());
         navPanel.setBorder(new EmptyBorder(10, 0, 0, 0));
 
