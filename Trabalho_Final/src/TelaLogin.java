@@ -13,7 +13,6 @@ public class TelaLogin extends JFrame {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
 
-        // Painel principal com padding
         JPanel panel = new JPanel(new BorderLayout());
         panel.setBorder(new EmptyBorder(10, 10, 10, 10));
 
@@ -21,7 +20,6 @@ public class TelaLogin extends JFrame {
         title.setFont(new Font("Arial", Font.BOLD, 24));
         panel.add(title, BorderLayout.NORTH);
 
-        // Painel de campos de login
         JPanel fieldsPanel = new JPanel(new GridLayout(3, 2, 10, 10));
         fieldsPanel.setBorder(new EmptyBorder(20, 20, 20, 20));
 
@@ -42,7 +40,6 @@ public class TelaLogin extends JFrame {
 
         panel.add(fieldsPanel, BorderLayout.CENTER);
 
-        // Botão de login
         JButton loginButton = new JButton("Login");
         loginButton.setFont(new Font("Arial", Font.PLAIN, 16));
         loginButton.addActionListener(e -> {
