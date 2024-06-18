@@ -14,7 +14,6 @@ public class TelaCarrinho extends JFrame {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
 
-        // Painel principal com padding
         JPanel panel = new JPanel(new BorderLayout());
         panel.setBorder(new EmptyBorder(10, 10, 10, 10));
 
@@ -22,7 +21,7 @@ public class TelaCarrinho extends JFrame {
         title.setFont(new Font("Arial", Font.BOLD, 24));
         panel.add(title, BorderLayout.NORTH);
 
-        // Painel de itens no carrinho
+
         JPanel cartPanel = new JPanel();
         cartPanel.setLayout(new BoxLayout(cartPanel, BoxLayout.Y_AXIS));
 
