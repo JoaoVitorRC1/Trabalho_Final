@@ -13,7 +13,6 @@ public class TelaPagamento extends JFrame {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
 
-        // Painel principal com padding
         JPanel panel = new JPanel(new BorderLayout());
         panel.setBorder(new EmptyBorder(10, 10, 10, 10));
 
@@ -21,7 +20,6 @@ public class TelaPagamento extends JFrame {
         title.setFont(new Font("Arial", Font.BOLD, 24));
         panel.add(title, BorderLayout.NORTH);
 
-        // Painel de campos de pagamento
         JPanel fieldsPanel = new JPanel(new GridLayout(5, 2, 10, 10));
         fieldsPanel.setBorder(new EmptyBorder(20, 20, 20, 20));
 
@@ -61,7 +59,6 @@ public class TelaPagamento extends JFrame {
 
         panel.add(fieldsPanel, BorderLayout.CENTER);
 
-        // Botão de finalização de compra
         JButton finalizarButton = new JButton("Finalizar Compra");
         finalizarButton.setFont(new Font("Arial", Font.PLAIN, 16));
         finalizarButton.addActionListener(e -> {
